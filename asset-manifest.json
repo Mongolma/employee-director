@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mongolma/employee-director/static/css/main.1c0c97ed.chunk.css",
+    "main.js": "/Mongolma/employee-director/static/js/main.5ad5ac90.chunk.js",
+    "main.js.map": "/Mongolma/employee-director/static/js/main.5ad5ac90.chunk.js.map",
+    "runtime-main.js": "/Mongolma/employee-director/static/js/runtime-main.60115991.js",
+    "runtime-main.js.map": "/Mongolma/employee-director/static/js/runtime-main.60115991.js.map",
+    "static/js/2.6e9d0ce2.chunk.js": "/Mongolma/employee-director/static/js/2.6e9d0ce2.chunk.js",
+    "static/js/2.6e9d0ce2.chunk.js.map": "/Mongolma/employee-director/static/js/2.6e9d0ce2.chunk.js.map",
+    "static/js/3.cc46b5b7.chunk.js": "/Mongolma/employee-director/static/js/3.cc46b5b7.chunk.js",
+    "static/js/3.cc46b5b7.chunk.js.map": "/Mongolma/employee-director/static/js/3.cc46b5b7.chunk.js.map",
+    "index.html": "/Mongolma/employee-director/index.html",
+    "static/css/main.1c0c97ed.chunk.css.map": "/Mongolma/employee-director/static/css/main.1c0c97ed.chunk.css.map",
+    "static/js/2.6e9d0ce2.chunk.js.LICENSE.txt": "/Mongolma/employee-director/static/js/2.6e9d0ce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60115991.js",
+    "static/js/2.6e9d0ce2.chunk.js",
+    "static/css/main.1c0c97ed.chunk.css",
+    "static/js/main.5ad5ac90.chunk.js"
+  ]
+}
